@@ -11,6 +11,11 @@ public class Calculator {
         String name = "Anna";
         System.out .println(name);
 
+//modulo
+        boolean even = 2%2 == 0;
+        System.out.println(even);
+        int e=2+2;
+
 
 
     }
