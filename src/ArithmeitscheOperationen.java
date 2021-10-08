@@ -8,5 +8,19 @@ public class ArithmeitscheOperationen {
         System.out.println(a/b);
         System.out.println(a*b);
         System.out.println(a%b);
+
+
+        double x=5;
+        double y=2;
+
+        System.out.println(y/x);
+        printResult(2+5);
+
+
+    }
+
+    public static void printResult(int result)
+    {
+        System.out.println(result);
     }
 }
